@@ -1,0 +1,41 @@
+
+
+body
+{
+    cursor:wait;
+    /* The page isn't broken, just thought the loading cursor would be funny for inexperienced viewers */
+    text-align:center;
+    background-color: hotpink;
+    color: blue;
+}
+
+ul
+{
+    text-align: left;
+    /*Realigned the text to be closer to bullet points */
+}
+
+img
+{
+    cursor: grabbing;
+    /* Changes the cursor when over my image */
+    border-style: solid;
+    border-color: gold;
+    
+}
+
+h1
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:gold
+}
+
+h3
+{
+    font-family: fantasy;
+}
+
+h4
+{
+    font: bold;
+}
